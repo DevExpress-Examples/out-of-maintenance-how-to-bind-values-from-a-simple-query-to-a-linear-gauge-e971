@@ -1,16 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" Inherits="_Default" Codebehind="Default.aspx.cs" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxGauges.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Web.ASPxGauges.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web.ASPxGauges.Gauges" TagPrefix="dxg" %>
-<%@ Register Assembly="DevExpress.Web.ASPxGauges.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Web.ASPxGauges.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web.ASPxGauges.Gauges.Linear" TagPrefix="dxg" %>
-<%@ Register Assembly="DevExpress.Web.ASPxGauges.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Web.ASPxGauges.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web.ASPxGauges.Gauges.Circular" TagPrefix="dxg" %>
-<%@ Register Assembly="DevExpress.Web.ASPxGauges.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Web.ASPxGauges.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web.ASPxGauges.Gauges.State" TagPrefix="dxg" %>
-<%@ Register Assembly="DevExpress.Web.ASPxGauges.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Web.ASPxGauges.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web.ASPxGauges.Gauges.Digital" TagPrefix="dxg" %>
-<%@ Register Assembly="DevExpress.Web.ASPxGauges.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Web.ASPxGauges.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web.ASPxGauges" TagPrefix="dxg" %>
 <%@ Register Assembly="DevExpress.Web.ASPxGauges.v13.1" Namespace="DevExpress.Web.ASPxGauges" TagPrefix="dxg" %>
 <%@ Register Assembly="DevExpress.Web.ASPxGauges.v13.1" Namespace="DevExpress.Web.ASPxGauges.Gauges" TagPrefix="dxg" %>
